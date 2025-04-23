@@ -1,0 +1,1 @@
+O arquivo musicas_anita.csv foi alterado manualmente de forma que as vírgulas virassem ponto e vírgula. Isso foi necessário para a leitura do arquivo no excel.
